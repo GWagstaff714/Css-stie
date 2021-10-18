@@ -1,0 +1,43 @@
+body {
+    background-color: #43efb3
+}
+h1 {
+    font-family: monospace;
+    text-align: center;
+    border-style:dotted;
+    font-family: 'Press Start 2P', cursive;
+        
+
+text-decoration: none;
+}
+div.left {
+float:left;
+width: 50%;
+height: 500px;
+background-color: cornflowerblue;
+}
+div.header {
+background-color:lightseagreen;
+float: inherit;
+    width: auto;
+    height: 200px;
+}
+div.left {
+float: left;
+    width: 30%;
+    height:500px;
+    background-color: crimson;
+}
+div.right {
+    float:right;
+    width: 70%;
+    height: 500px;
+background-color:goldenrod;
+} 
+div.footer {
+float: inherit;
+width: 500px;
+height: 500px;
+background-color: crimson;
+}
+
